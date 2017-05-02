@@ -1,0 +1,13 @@
+- count.py counts the number of line(datapoints) in the dataset.
+- count1.py gives the count of each type of attack and normal class from the dataset.
+- extract will extract  given number of datapoints randomly from the original dataset.
+- extract will extract  given number of datapoints randomly from the original dataset maintaining the same proportion of classes.
+- distinct.py assign  distinct intergers for distinct values of data which are non intergers.
+- ffr.py is implementation of fast feature reduction. We reduced 41 features to 13 features using the techinique explain in the paper "Fast Feature Reduction in Intrusion Detection Datasets" attached.
+- svm_withoutcv.py has implementation of svm from sratch and also using sklearn.svm library.
+- nn.py is implementation of neural nets using sklearn.neural_network library.
+- To run the above two codes sklearn.svm and sklearn.neural_network library have to be installed.
+- The details of the experiments conducted and the results are mentioned the presentation attached herewith.
+- The two papers which we refered to are also attached("Intrusion Detection: Support Vector Machines and Neural Networks" and "Fast Feature Reduction in Intrusion Detection Datasets" ).
+
+
